@@ -4,8 +4,11 @@
   "description": "Mining Rig temperature monitoring",
   "main": "index.js",
   "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
     "commander": "^2.12.2",
     "got": "^7.1.0",
+    "randomcolor": "^0.5.3",
     "terminal-kit": "^1.14.1",
     "xml2js": "^0.4.19"
   },
